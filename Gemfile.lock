@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    oksky-chat-api (0.2.3)
+      thor
+    thor (0.20.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  oksky-chat-api
+
+BUNDLED WITH
+   1.16.0.pre.3
